@@ -1,0 +1,36 @@
+[
+  {
+    "title": "python crash course",
+    "author" : "Eric Mathes",
+    "publication_year":2019,
+    "genre": "Programming",
+    "read_status":true,
+    "added_data" : "2025-03-11 11:36:40"
+  },
+   {
+    "title": "Limitless",
+    "author" : "Jim Kwik",
+    "publication_year":2015,
+    "genre": "Self-help",
+    "read_status":true,
+    "added_data" : "2025-03-11 11:36:40"
+  },
+   {
+    "title": "Personal MBA"
+    "author" : "Josh Kaufehman"
+    "publication_year":2011,
+    "genre": "Self-help"
+    "read_status":true,
+    "added_data" : "2025-03-11 11:36:40"
+  },
+   {
+    "title": "Crucial Conversations"
+    "author" : "Kerry Patterson"
+    "publication_year":2015,
+    "genre": "Self-help"
+    "read_status":false,
+    "added_data" : "2025-03-11 11:36:40"
+  },
+
+]
+  
